@@ -52,5 +52,5 @@ figlet "cybermuslim" | lolcat
 git clone https://github.com/zlucifer/lucita_ddos
 mv lucita_ddos $HOME
 cd $HOME/lucita_ddos
-python licita_ddos.py
+python lucita_ddos.py
 fi
